@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "android_device_realme_sdm710-common",
+    "target_path": "device/realme/sdm710-common"
+  },
+  {
+    "repository": "viralbanda/prebuilts_arm64-gcc",
+    "target_path": "prebuilts/arm64-gcc",
+    "branch": "master",
+    "remote": "github"
+  }
+]
