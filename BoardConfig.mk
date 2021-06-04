@@ -13,7 +13,7 @@ DEVICE_PATH := device/realme/RMX1851
 TARGET_OTA_ASSERT_DEVICE := RMX1851
 
 # Kernel
-TARGET_KERNEL_CONFIG := KharaMe_defconfig
+TARGET_KERNEL_CONFIG := Ruiviver_defconfig
 
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 
