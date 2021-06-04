@@ -1,12 +1,10 @@
 [
   {
-    "repository": "android_device_realme_sdm710-common",
+    "repository": "device_realme_RMX1851-common",
     "target_path": "device/realme/sdm710-common"
   },
   {
-    "repository": "viralbanda/prebuilts_arm64-gcc",
-    "target_path": "prebuilts/arm64-gcc",
-    "branch": "master",
-    "remote": "github"
+    "repository": "vendor_realme_sdm710-common",
+    "target_path": "vendor/realme/sdm710-common"
   }
 ]

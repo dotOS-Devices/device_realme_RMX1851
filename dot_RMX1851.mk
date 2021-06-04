@@ -27,7 +27,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="RMX1851"
 
 # Set BUILD_FINGERPRINT variable to be picked up by system build.prop
-    BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys"
+    BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys"
 
 #Face Unlock Support
     TARGET_FACE_UNLOCK_SUPPORTED := true
